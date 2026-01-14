@@ -215,7 +215,6 @@ body {
 .tech-skills,
 .soft-skills {
   margin-left: 40px;
-  padding-right: 20px;
 }
 
 .contacts {
@@ -252,6 +251,7 @@ body {
   color: #fff;
   padding: 0;
   margin-left: 17px;
+  margin-right: 17px;
 }
 
 .soft-skills-item {
